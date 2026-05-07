@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="ru">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="Page-Enter" content="blendTrans(Duration=1.0)">
