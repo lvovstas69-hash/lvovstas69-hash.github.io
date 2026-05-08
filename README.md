@@ -76,7 +76,7 @@ document.getElementById("counter").innerHTML = count;
 
 <br><br>
 <img src="https://sun9-29.userapi.com/s/v1/ig2/sC1epacq3tUmjGVulg4dS-BqWuXR6dXdoPdddSlHgZgT7CeZYkNbyM68fyadOS0iUsFT-aQZpBZOwvO1tK7iThum.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x426,720x480,1080x720,1280x853&from=bu&cs=1280x0">
-<img src=https://sun9-70.userapi.com/s/v1/ig2/jC67lARd_qwEdDeElKyO-rzktg68KBuUAL9QC9eXHJ5W6LyoQ_AUc_TWLmSSmTDTaN93Zor6EdIczJ8G7YgdOuzQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&from=bu&cs=1280x0>
+<img src="https://sun9-70.userapi.com/s/v1/ig2/jC67lARd_qwEdDeElKyO-rzktg68KBuUAL9QC9eXHJ5W6LyoQ_AUc_TWLmSSmTDTaN93Zor6EdIczJ8G7YgdOuzQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&from=bu&cs=1280x0">
 <center>
     
 
