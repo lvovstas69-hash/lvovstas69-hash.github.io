@@ -75,7 +75,7 @@ document.getElementById("counter").innerHTML = count;
 </script>
 
 <br><br>
-
+<img src="https://sun9-29.userapi.com/s/v1/ig2/sC1epacq3tUmjGVulg4dS-BqWuXR6dXdoPdddSlHgZgT7CeZYkNbyM68fyadOS0iUsFT-aQZpBZOwvO1tK7iThum.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x426,720x480,1080x720,1280x853&from=bu&cs=1280x0">
 <center>
 <a href="page2.html">Страница 2 (Медиа)</a> &nbsp;|&nbsp;
 <a href="page3.html">Страница 3 (Анкета)</a>
